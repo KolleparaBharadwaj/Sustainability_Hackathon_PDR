@@ -30,6 +30,7 @@ Avoid accidental intake of drugs by patient or any other unauthorised person.
 | Files attached |
 ******************
 1. Idea_submission.pptx
+2. Idea_submission.pdf (contains the same as the ppt: just added as a precaution)
 
 This ppt presentatin includes the necessary ( Business Challenge/ Opportunity/Usecases ) + Proposed Solution + High level architecture
 along with supporting diagrams, screenshots, CAD drawing etc...
@@ -37,4 +38,7 @@ along with supporting diagrams, screenshots, CAD drawing etc...
 
 *****
 ^^Note: For better experience please view the ppt in full screen mode only **********************
+
+Power Point Version : 16.72 ( under office 365 licence)
+
 ****************
