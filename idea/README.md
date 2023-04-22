@@ -33,3 +33,8 @@ Avoid accidental intake of drugs by patient or any other unauthorised person.
 
 This ppt presentatin includes the necessary ( Business Challenge/ Opportunity/Usecases ) + Proposed Solution + High level architecture
 along with supporting diagrams, screenshots, CAD drawing etc...
+
+
+*****
+^^Note: For better experience please view the ppt in full screen mode only **********************
+****************
